@@ -1,4 +1,4 @@
-baseURL = "https://github.com/naut1410/AWS_NguyenHoangTuan.git"
+baseURL = "https://naut1410.github.io/AWS_NguyenHoangTuan/"
 relativeURLs = false
 canonifyURLs = true
 defaultContentLanguage = "en"
